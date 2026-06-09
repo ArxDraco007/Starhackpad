@@ -24,13 +24,11 @@ BOM! -
 **Final Price for Kit Items: $16.84**
 Case Items
 | Item | Description | Quantity | Unit Price ($) | Total Price ($) | Link |
-|------|-------------|----------|----------------|-----------------|------|
 | 3D-printed Case (Self-Provided) | Approx. 156g PLA | 1 | 0 | 0 | — |
 | LionCircuits PCB for Hackpad | PCB (MOQ 5) | 5 | 1.80 | 9.00 | https://order.lioncircuits.com/projectdetails/212426/quotation |
 Final Price for Case Items: $9
 Grand Total
 | Category | Cost ($) |
-|----------|----------|
 | Kit Items | 16.84 |
 | Case Items | 9 |
 | **Grand Total** | **25.60** |
